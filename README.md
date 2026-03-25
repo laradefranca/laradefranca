@@ -1,6 +1,6 @@
 ## Olá, pessoa 🖖
 
-🎯 **Sobre mim**
+**Sobre mim**
 - 🔭 À procura de uma oportunidade de estágio em áreas relacionadas a TI  
 - 🖥️ Estudando:
   - Dados (Banco de Dados, Engenharia de Dados, Python e Análise de Dados)
