@@ -1,227 +1,158 @@
-# Olá, eu sou Lara de França 👋
+<!-- README do perfil: crie/edite em github.com/laradefranca/laradefranca → README.md -->
 
-### Estudante de Sistemas para Internet | Futura Engenheira de Dados
+<div align="center">
 
-Sou estudante de **Sistemas para Internet na Universidade Católica de Pernambuco (UNICAP)** e **Técnica em Desenvolvimento de Sistemas pela ETE Porto Digital**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1020,100:141B2F&fontColor=FFC21A&text=Lara%20Melissa&fontSize=52&fontAlignY=38&desc=Estudante%20de%20Sistemas%20para%20Internet%20%C2%B7%20Futura%20Engenheira%20de%20Dados&descSize=15&descAlignY=60&descColor=FFF3B0" alt="Lara Melissa — Estudante de Sistemas para Internet, futura Engenheira de Dados" width="100%" />
 
-Tenho como objetivo de curto prazo ingressar na área de **Tecnologia da Informação**, especialmente em **Dados, Desenvolvimento Web ou áreas correlatas**, construindo experiência profissional enquanto desenvolvo minha carreira em **Engenharia de Dados**.
+<!-- 🐝 Troque esta linha pela abelha final quando ela estiver pronta:
+<img src="URL-DA-ABELHA.png" width="160" alt="Abelha, mascote da Lara" />
+-->
 
-A longo prazo, tenho interesse em direcionar minha carreira para **Cybersecurity**, unindo desenvolvimento, dados, automação e segurança da informação.
-
----
-
-## Sobre mim
-
-Minha formação e meus estudos são guiados por uma ideia simples:
-
-> **Não quero apenas aprender tecnologias. Quero entender como elas resolvem problemas reais.**
-
-Por isso, este GitHub funciona tanto como **portfólio profissional quanto como registro da minha evolução acadêmica e técnica**.
-
-Nos meus projetos, procuro ir além da implementação do código. Para cada projeto, desenvolvo uma **empresa fictícia com um contexto e um problema de negócio**, buscando criar uma solução tecnológica que seja coerente com aquele cenário.
-
-Essa abordagem me permite praticar não apenas programação, mas também:
-
-* Análise e compreensão de problemas de negócio;
-* Modelagem e organização de dados;
-* Desenvolvimento de soluções;
-* Automação de processos;
-* Análise e visualização de dados;
-* Tomada de decisões baseada em informações;
-* Documentação e organização de projetos;
-* Pensamento crítico sobre tecnologia e suas aplicações.
-
-Por esse motivo, alguns projetos podem levar mais tempo para serem publicados. Prefiro construir algo que represente de verdade **o que estou aprendendo, como estou pensando e por que estou tomando determinadas decisões**, em vez de simplesmente produzir muitos projetos superficiais.
-
----
-
-## Atualmente estudando
-
-### Dados & Engenharia de Dados
-
-* **Python**
-* **Java**
-* Fundamentos de Engenharia de Dados
-* Manipulação e tratamento de dados
-* Estruturação e organização de dados
-* Automação de processos
-* Lógica de programação aplicada a dados
-* Fundamentos de bancos de dados e SQL
-
-### Análise de Dados
-
-* **Power BI**
-* **Excel**
-* Organização e tratamento de dados
-* Visualização de informações
-* Construção de indicadores
-* Análise orientada a problemas de negócio
-
-### Desenvolvimento
-
-* Desenvolvimento Web
-* Fundamentos de sistemas para Internet
-* Programação orientada a objetos
-* Desenvolvimento de aplicações
-* Estruturação e documentação de projetos
-
-### Inteligência Artificial
-
-Também estudo **IA aplicada ao desenvolvimento de software**, principalmente como ferramenta de apoio ao aprendizado e à engenharia de código.
-
-Utilizo IA para:
-
-* Esclarecer dúvidas técnicas;
-* Explorar diferentes abordagens para um problema;
-* Revisar e questionar soluções;
-* Sugerir melhorias;
-* Auxiliar no refinamento de código;
-* Explorar conceitos e tecnologias novas.
-
-**O código e as decisões dos meus projetos são estudados e compreendidos por mim.** Meu objetivo é utilizar IA como ferramenta de aprendizado e produtividade, e não como substituta do conhecimento técnico.
-
----
-
-## Como construo meus projetos
-
-Uma característica importante deste portfólio é que meus projetos não são desenvolvidos apenas como exercícios de programação.
-
-Normalmente, começo criando um **cenário de negócio fictício**, identificando um problema que poderia existir em uma empresa real e, a partir disso, desenvolvo uma solução tecnológica.
-
-### Processo
-
-```text
-Problema de negócio
-        ↓
-Entendimento do cenário
-        ↓
-Definição da empresa fictícia
-        ↓
-Levantamento de requisitos
-        ↓
-Modelagem da solução
-        ↓
-Desenvolvimento
-        ↓
-Análise e validação
-        ↓
-Documentação
-        ↓
-Publicação no GitHub
+```
+01000010 01000101 01000101
+   B        E        E
 ```
 
-Essa metodologia me ajuda a desenvolver uma visão mais próxima da realidade profissional, conectando **tecnologia, dados e regras de negócio**.
+<sub>pequena por fora, trabalho de colmeia por dentro</sub>
 
----
+<br>
 
-## Tecnologias & Ferramentas
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![UNICAP](https://img.shields.io/badge/UNICAP-Sistemas_para_Internet-FFC21A?style=for-the-badge&labelColor=0B1020)
+![ETE](https://img.shields.io/badge/ETE_Porto_Digital-T%C3%A9cnica_em_Desenvolvimento_de_Sistemas-E09F00?style=for-the-badge&labelColor=0B1020)
 
 </div>
 
-> Minha stack está em constante evolução. Este espaço representa principalmente as tecnologias que estou estudando e aplicando nos meus projetos.
+<br>
 
----
+## ⬡ Sobre mim
 
-## Formação
+Sou estudante de **Sistemas para Internet na UNICAP** e **Técnica em Desenvolvimento de Sistemas pela ETE Porto Digital**.
 
-**Universidade Católica de Pernambuco — UNICAP**
-🎓 Sistemas para Internet
-*Em andamento*
+> Não quero apenas aprender tecnologias. Quero entender como elas resolvem problemas reais.
 
-**ETE Porto Digital**
-🎓 Técnico em Desenvolvimento de Sistemas
-*Concluído*
+Este GitHub é meu portfólio e também o registro da minha evolução. Em cada projeto, crio uma **empresa fictícia com um problema de negócio** e desenvolvo uma solução que faça sentido para aquele cenário. Por isso alguns projetos demoram mais para aparecer aqui: prefiro poucos projetos que mostrem como eu penso a muitos projetos superficiais.
 
----
+<br>
 
-## Objetivos profissionais
+## ⬡ Como construo meus projetos
 
-### Curto prazo
+```mermaid
+flowchart LR
+    A[Problema de negócio] --> B[Empresa fictícia]
+    B --> C[Requisitos]
+    C --> D[Modelagem]
+    D --> E[Desenvolvimento]
+    E --> F[Análise e validação]
+    F --> G[Documentação]
+    G --> H[Publicação]
+    style A fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style B fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style C fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style D fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style E fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style F fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style G fill:#0B1020,stroke:#FFC21A,color:#FFF3B0
+    style H fill:#FFC21A,stroke:#E09F00,color:#0B1020
+```
 
-Busco uma oportunidade de **estágio em Tecnologia da Informação**, especialmente nas áreas de:
+<br>
 
-* Engenharia de Dados;
-* Dados e Analytics;
-* Desenvolvimento Web;
-* Desenvolvimento de Software;
-* Automação;
-* Outras áreas de TI que me permitam adquirir experiência prática.
+## ⬡ Estudando agora
 
-Meu principal objetivo nesse momento é **transformar conhecimento acadêmico e projetos pessoais em experiência profissional**, aprendendo com equipes, projetos reais e desafios do mercado.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Médio prazo
+**Dados e engenharia de dados**
+- Python e Java
+- SQL e bancos de dados
+- Tratamento e estruturação de dados
+- Automação de processos
 
-Construir uma base sólida em **Engenharia de Dados**, aprofundando conhecimentos em:
+</td>
+<td width="50%" valign="top">
 
-* Python;
-* Java;
-* SQL;
-* Bancos de dados;
-* ETL/ELT;
-* Pipelines de dados;
-* Cloud Computing;
-* Processamento de dados;
-* Arquitetura de dados;
-* Boas práticas de desenvolvimento.
+**Análise de dados**
+- Power BI e Excel
+- Indicadores e visualização
+- Análise orientada a problemas de negócio
 
-### Longo prazo
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-Tenho interesse em direcionar minha carreira para **Cybersecurity**, buscando integrar conhecimentos de desenvolvimento, engenharia de dados, infraestrutura e segurança para trabalhar na construção e proteção de sistemas e dados.
+**Desenvolvimento**
+- Desenvolvimento web
+- Programação orientada a objetos
+- Estruturação e documentação de projetos
 
----
+</td>
+<td valign="top">
 
-## O que você encontrará neste GitHub
+**IA aplicada ao desenvolvimento**
+- Uso IA para tirar dúvidas, comparar abordagens e revisar soluções.
+- O código e as decisões dos meus projetos são estudados e compreendidos por mim.
 
-Este perfil representa minha evolução profissional e acadêmica.
+</td>
+</tr>
+</table>
 
-Aqui você encontrará projetos desenvolvidos com diferentes objetivos, desde estudos e experimentos até soluções estruturadas em torno de problemas de negócio.
+<br>
 
-Cada projeto busca demonstrar não apenas **o resultado final**, mas também o meu processo de aprendizado e raciocínio.
+## ⬡ Ferramentas
 
-Em cada repositório, procuro apresentar:
+<p>
+<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FFC21A" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=FFC21A" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=FFC21A" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=FFC21A" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Power_BI-0B1020?style=for-the-badge&logo=powerbi&logoColor=FFC21A" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-0B1020?style=for-the-badge&logo=microsoftexcel&logoColor=FFC21A" alt="Excel" />
+<img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=FFC21A" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFC21A" alt="GitHub" />
+</p>
 
-* O contexto do problema;
-* A empresa ou cenário fictício;
-* Os objetivos da solução;
-* Tecnologias utilizadas;
-* Estrutura do projeto;
-* Principais decisões técnicas;
-* Resultados obtidos;
-* Próximos passos e possíveis melhorias.
+<sub>Minha stack está em constante evolução: aqui estão as tecnologias que estou estudando e aplicando nos projetos.</sub>
 
----
+<br>
 
-## Em constante construção
+## ⬡ Para onde vou
 
-Ainda estou no início da minha trajetória profissional, e este GitHub também representa isso.
+| Prazo | Objetivo |
+|:--|:--|
+| 🍯 **Curto** | Estágio em TI (engenharia de dados, dados e analytics, desenvolvimento web, automação), transformando estudo e projetos pessoais em experiência profissional. |
+| 🍯 **Médio** | Base sólida em engenharia de dados: Python, Java, SQL, ETL/ELT, pipelines, cloud e arquitetura de dados. |
+| 🍯 **Longo** | Cybersecurity, unindo desenvolvimento, dados, infraestrutura e segurança para construir e proteger sistemas. |
 
-Não tenho a intenção de apresentar um perfil de alguém que já sabe tudo. Quero mostrar **evolução, consistência, curiosidade e capacidade de aprender**.
+<br>
 
-Cada projeto publicado representa uma etapa dessa construção.
+## ⬡ Projetos
+
+| Projeto | Sobre |
+|:--|:--|
+| [**Dashboard-Dados**](https://github.com/laradefranca/Dashboard-Dados) | Dashboard interativo da disciplina de programação para web. `JavaScript` |
+| [**ArenaShotter3D**](https://github.com/laradefranca/ArenaShotter3D) | Projeto inicial de jogo para o projeto de extensão da UNICAP com o AmanaLab. |
+
+<sub>Cada repositório traz o contexto do problema, a empresa fictícia, os objetivos, as tecnologias, as decisões técnicas, os resultados e os próximos passos.</sub>
+
+<br>
+
+## ⬡ Vamos conversar?
+
+Estou aberta a **estágio em TI**, projetos e networking.
+
+<p>
+<a href="http://www.linkedin.com/in/lara-de-franca"><img src="https://img.shields.io/badge/LinkedIn-lara--de--franca-FFC21A?style=for-the-badge&logo=linkedin&logoColor=0B1020&labelColor=FFC21A" alt="LinkedIn" /></a>
+<a href="mailto:laradefranca2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-laradefranca2007@gmail.com-0B1020?style=for-the-badge&logo=gmail&logoColor=FFC21A&labelColor=0B1020&color=FFC21A" alt="E-mail" /></a>
+</p>
+
+<br>
+
+<div align="center">
 
 **Hoje, estudante. Amanhã, engenheira de dados. No longo prazo, especialista em segurança.**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:141B2F,100:0B1020&section=footer" alt="" width="100%" />
 
-## Vamos conversar?
-
-Estou aberta a oportunidades de **estágio em TI**, projetos, networking e conexões com profissionais da área.
-
-**LinkedIn:** [linkedin.com/in/lara-de-franca](http://www.linkedin.com/in/lara-de-franca)
-**E-mail:** [laradefranca2007@gmail.com](mailto:laradefranca2007@gmail.com)
-
----
-
-<p align="center">
-  <i>Transformando problemas reais em soluções através da tecnologia.</i>
-</p>
+</div>
